@@ -90,6 +90,7 @@ orders-ingest/
 ├── data/raw/              # input CSV
 ├── output/                # generated Parquet and rejects CSV
 ├── config.json            # input and output paths
+├── .gitignore             # keeps .venv, caches and generated output out of Git
 └── pyproject.toml         # dependencies, packaging, pytest and Ruff settings
 ```
 
