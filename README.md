@@ -98,6 +98,7 @@ orders-ingest/
 Tested with Python 3.14.
 
 ```bash
+git clone https://github.com/Afolakemi01/orders-ingest.git
 cd orders-ingest
 python3 -m venv .venv
 source .venv/bin/activate
@@ -148,3 +149,4 @@ Current status: 7 passing, Ruff clean.
 - Replace the reconciliation `assert` with an explicit exception.
 - Load clean rows into PostgreSQL alongside Parquet.
 - Containerise with Docker and schedule with Airflow.
+
