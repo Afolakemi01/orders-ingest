@@ -149,4 +149,5 @@ Current status: 7 passing, Ruff clean.
 - Replace the reconciliation `assert` with an explicit exception.
 - Load clean rows into PostgreSQL alongside Parquet.
 - Containerise with Docker and schedule with Airflow.
+- Add a GitHub Actions check that runs the tests and Ruff on every push.
 
