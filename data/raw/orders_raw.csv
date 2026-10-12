@@ -1,0 +1,14 @@
+order_id,customer_email,order_date,amount_gbp,quantity
+1001,ada@example.com,2026-08-01,19.99,2
+1002,bola@example.com,2026-08-02,5.50,1
+1003,,2026-08-02,12.00,1
+1004,chidi@example.com,2026-13-05,8.00,1
+1005,dami@example.com,2026-08-03,abc,1
+1006,efe@example.com,2026-08-04,-4.00,1
+1007,funmi@example.com,2026-08-04,15.00
+1008, gbenga@example.com ,2026-08-05, 7.25 ,3
+1009,"hadiza@example.com",2026-08-05,"1,200.00",1
+1010,ife@example.com,2026-08-06,3.00,0
+,jide@example.com,2026-08-06,4.00,1
+1012,kemi@example.com,2026-08-07,22.10,2,EXTRA
+1013,   ,2026-08-07,9.99,1

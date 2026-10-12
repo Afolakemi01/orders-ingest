@@ -1,0 +1,5 @@
+{
+  "input_path": "data/raw/orders_raw.csv",
+  "clean_output_path": "output/orders_clean.parquet",
+  "rejects_output_path": "output/orders_rejects.csv"
+}
